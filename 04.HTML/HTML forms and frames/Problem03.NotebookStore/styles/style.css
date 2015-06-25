@@ -1,0 +1,30 @@
+thead tr th {
+	border: 1px solid;
+	font-size: 35px;
+}
+
+.price {
+	text-align: center;
+}
+
+.ranges {
+	font-size: 30px;
+}
+
+.ranges td {
+	padding: 30px;
+}
+
+.macbook, .ranges {
+	border: 1px solid;
+	font-size: 25px;
+}
+
+legend {
+	text-align: center;
+	font-size: 25px;
+}
+
+img {
+	width: 150px;
+}
