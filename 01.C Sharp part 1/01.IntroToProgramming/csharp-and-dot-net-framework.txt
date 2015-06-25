@@ -1,0 +1,14 @@
+Problem 13. C# and .NET Differences
+
+Describe the difference between C# and .NET Framework in 2-3 sentences.
+Write your description in a text file called “csharp-and-dot-net-framework.txt”.
+Use English.
+
+.NET Framework includes a large lybrary known as Framework Class Library (FCL)
+and provides language interoperability across several programming languages.
+Programs written for .NET Framework execute in a software environment known as
+Common Language Runtime (CLR). FCL and CLR tohether sonstitude .NET Framework.
+
+C# is a strong object-oriented programming language created for use with .NET
+Framework. C# object model corresponds to the .NET object model and you can do
+anything interesting in C# just by using .NET libraries.

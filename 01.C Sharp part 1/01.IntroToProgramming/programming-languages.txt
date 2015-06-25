@@ -1,0 +1,50 @@
+Problem 11. Programming Languages
+
+Perform a research (e.g. in Google or Wikipedia) and provide a short
+list with information about the most popular programming languages.
+How similar are they to C#? How do they differ from C#?
+Write in a text file called “programming-languages.txt” at least five languages
+along with 2-3 sentences about each of them. Use English.
+
+Programming languages:
+C
+Java
+JavaScript
+Python
+PHP
+
+How similar are they to C#?
+They are used very commonly by developers for creating applications.
+Most of them are object-oriented.
+
+How do they differ from C#?
+C# is relevantly new programming language, which is easy to learn and very
+powerfull.
+
+C:
+A lot of the new languages have borrowed directly or indirectly from C.
+Some of C's characteristics include code portability and efficiency, ability to
+access specific hardware addresses, low run-time demand on system resources.
+
+Java:
+Java is one of the most popular languages in use for client-server web applications.
+One design goal of Java is portability, which means the programs written for the
+Java platform must run similarly on any combination of hardware and operating
+system with adequate runtime support.
+
+JavaScript:
+The most common use of JavaScript is to add client-side behavior to HTML pages.
+It is also used in server-side network programming wih runtime environments such
+as Node.js, game development and the creation of desktop and mobile applications.
+
+Python:
+Python supports multiple programming paradigms, including object-oriented,
+imperative and functional programming or procedural styles. It features dynamic
+type system and automatic memory management and has a large and comprehensive
+standard library.
+
+PHP:
+PHP is a server-side scripting language designed for web development but also
+used as a generel-purpose programming language. PHP code can be simply mixed with
+HTML code, or it can be used in combinations with various templating engines and
+web frameworks.

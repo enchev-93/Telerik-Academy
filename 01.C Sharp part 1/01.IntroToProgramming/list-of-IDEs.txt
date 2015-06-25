@@ -1,0 +1,40 @@
+Problem 12. Development Environments
+
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with
+popular development environments (IDEs) like Visual Studio.
+Write in a text file called “list-of-IDEs.txt” at least five IDEs
+along with 2-3 sentences about each of them. Use English.
+
+Eclipse
+Code::Blocks
+Komodo
+Aptana Studio 3
+ShiftEdit
+
+Eclipse:
+Many development frameworks are built on Eclipse, a free, open-source editor
+that was initially a Java environment but a variety of plug-ins have extended
+its capabilities considerably. Easily switch context between perspectives.
+
+Code::Blocks:
+It is an extensible and fully configurable IDE, designed to support its users
+most demanding needs. It provides a consistent look, feel and operation across
+all platforms for seamless transitions between work spaces, and it's built
+around plug-in framework, providing a multitude of options for extension.
+
+Komodo:
+Komodo is a comprehensive IDE that supports all major programming languages.
+Whether you’re working with Python, PHP, Ruby, Perl, HTML, CSS or JavaScript,
+Komodo provides a clean, intuitive interface with advanced editing capabilities
+and integrated tools for the most functionality.
+
+Aptana Studio 3:
+It's been completely re-built to provide a faster and seamless environment for
+developing and testing an entire web application using single environment. It
+supports all the major browser technology specs, eliminating compability and
+testing challenges to speed up the time of deployment.
+
+ShiftEdit:
+It is an online IDE that allows you to develop within your browser. With all the
+files, features and functionality you need, you can seamlessly work within any
+browser without interrupting your workflow or having to install software.
