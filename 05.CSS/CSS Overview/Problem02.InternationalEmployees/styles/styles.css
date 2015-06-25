@@ -1,0 +1,42 @@
+table, th, td {
+	text-align: left;
+	font-family: Arial;
+	font-size: 12px;
+	height: 2em;
+	vertical-align: middle;
+	padding-left: 0.5em;
+	padding-right: 3em;
+	border-collapse: collapse;
+}
+
+td {
+	border: 1px solid #c1bfa5;
+	border-bottom: 0;
+	border-top: 0;
+	border-right: 0;
+}
+
+th {
+	border: 1px solid #3c8d0f;
+	border-right: 0;
+	padding: 0px 5px 0px 5px;
+}
+
+img {
+	width: 1.9em;
+	height: 1.1em;
+}
+
+th {
+	background-color: #59bd06;
+	color: white;
+	font-weight: normal;
+}
+
+tr:nth-child(2n) {
+	background-color: #ececd8;
+}
+
+input[type=checkbox] {
+	box-shadow: 1px 1px 2px #000 inset;
+}

@@ -1,0 +1,27 @@
+ul {
+	list-style-type: none;
+	font-size: 20px;
+	padding: 0;
+	margin: 0;
+	display: block;
+	width: 150px;
+}
+
+	ul ul {
+		padding-left: 20px;
+		display: none;
+		opacity: 0.75;
+}
+
+li:hover>ul {
+	display: block;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+a:hover {
+	text-decoration: underline;
+}

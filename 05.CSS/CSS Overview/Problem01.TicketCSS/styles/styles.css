@@ -1,0 +1,67 @@
+body {
+	background-color: #595959;
+	font-family: Arial;
+	font-size: 11px;
+}
+
+table {
+	padding: 0;
+	border-spacing: 0.5em;
+}
+
+th {
+	font-style: italic;
+	font-weight: normal;
+	text-align: left;
+	color: white;
+}
+
+th, td {
+	padding: 0.5em;
+}
+
+div {
+	color: red;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+span, .link {
+	color: #ffefb0;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: blue;
+}
+
+#user-status {
+	font-size: 1.5em;
+	color: #71b47a;
+}
+
+#support {
+	color: red;
+}
+
+#ticket {
+	color: #a3b4a8;
+	font-size: 1.5em;
+	padding-bottom: 0.5em;
+}
+
+#name {
+	vertical-align: text-top;
+}
+
+#status {
+	color: #e36a24;
+	font-size: 1.1em;
+}
+
+#leftover {
+	color: #acbbbb;
+}
