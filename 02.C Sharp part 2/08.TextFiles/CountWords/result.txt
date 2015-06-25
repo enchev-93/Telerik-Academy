@@ -1,0 +1,4 @@
+The word 'text' appears 2 times in the text.
+The word 'file' appears 2 times in the text.
+The word 'words' appears 1 times in the text.
+The word 'program' appears 1 times in the text.
